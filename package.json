@@ -1,0 +1,33 @@
+{
+  "name": "entregas-sd",
+  "version": "1.0.0",
+  "description": "Carpeta donde se entregan los trabajos de la materia SD",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAlejandroB/entregas-SD.git"
+  },
+  "keywords": [
+    "example",
+    "test",
+    "multiple",
+    "entry",
+    "points"
+  ],
+  "author": "Diego Ballesteros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAlejandroB/entregas-SD/issues"
+  },
+  "homepage": "https://github.com/DAlejandroB/entregas-SD#readme"
+}
